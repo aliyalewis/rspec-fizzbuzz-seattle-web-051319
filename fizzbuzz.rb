@@ -7,6 +7,7 @@ def fizzbuzz(x)
     puts "FizzBuzz"
   else x % == 4
     puts nil
+  end
 end
 
 # Don't forget! This file needs to be 'required' in its spec file
