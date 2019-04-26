@@ -1,11 +1,11 @@
 def fizzbuzz(x)
-  if x % == fizzbuzz(3)
+  if x % == 3
     puts "Fizz"
-  elsif x % == fizzbuzz(5)
+  elsif x % == 5
     puts "Buzz"
-  elsif x % == fizzbuzz(15)
+  elsif x % == 15
     puts "FizzBuzz"
-  else x % == fizzbuzz(4)
+  else x % == 4
     puts nil
 end
 
